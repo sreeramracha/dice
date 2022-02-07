@@ -5,7 +5,7 @@ var imageOne=document.querySelector("img.img1")
 var imageTwo=document.querySelector("img.img2")
 
 imageOne.setAttribute("src","https://github.com/sreeramracha/dice/blob/main/images/dice"+randomNumber1+".png?raw=true");
-imageTwo.setAttribute("src","https://github.com/sreeramracha/dice/blob/main/images/dice"+randomNumber1+".png?raw=true");
+imageTwo.setAttribute("src","https://github.com/sreeramracha/dice/blob/main/images/dice"+randomNumber2+".png?raw=true");
 
 var heading=document.querySelector("h1");
 
